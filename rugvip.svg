@@ -1,4 +1,4 @@
-<svg viewBox="0 0 100 30" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 83 20" xmlns="http://www.w3.org/2000/svg">
 <style>
 .text {
   fill: white;
@@ -6,7 +6,8 @@
   stroke-linejoin: round;
   stroke: white;
   font-family: Verdana, Arial, Helvetica, sans-serif;
-  font-size: 20px/1;
+  align-text: center;
+  font-size: 18px;
   letter-spacing: 2px;
 }
 </style>
@@ -67,7 +68,7 @@
 
 <symbol id="s-text">
   <g filter="url(#displacement)">
-    <text text-anchor="left" y="50%">RUGVIP</text>
+    <text text-anchor="left" y="16">RUGVIP</text>
   </g>
 </symbol>
 
