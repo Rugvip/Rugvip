@@ -67,7 +67,7 @@
 
 <symbol id="s-text">
   <g filter="url(#displacement)">
-    <text text-anchor="middle" x="50%" y="50%">RUGVIP</text>
+    <text text-anchor="left" y="50%">RUGVIP</text>
   </g>
 </symbol>
 
