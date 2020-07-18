@@ -1,6 +1,6 @@
 ### Welcome to
 
-![Rugvip](rugvip.svg)
+![Rugvip](https://raw.githubusercontent.com/Rugvip/Rugvip/master/rugvip.svg)
 
 I'm working on [Backstage](https://github.com/spotify/backstage)
 
