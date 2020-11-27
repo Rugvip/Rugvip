@@ -54,7 +54,7 @@
 </filter>
 
 <filter id='displacement'>
-  <feTurbulence width="300" height="300" baseFrequency="0.3" numOctaves="2" seed="1337"/>
+  <feTurbulence width="0" height="0" baseFrequency="0.3" numOctaves="2" seed="1337"/>
   <feGaussianBlur stdDeviation="0.5"/>
   <feOffset>
     <animate attributeName="dx" dur="120s" calcMode="linear" repeatCount="indefinite"
